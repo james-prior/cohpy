@@ -1,0 +1,7 @@
+Smith       CS101
+Johnson     EE201
+Williams    PH131
+Smith       PH132
+Jones       PH131
+Brown       EE201
+Williams    CS101
