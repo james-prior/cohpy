@@ -5,8 +5,7 @@
 See https://www.python.org/dev/peps/pep-0008/#programming-recommendations.
 
 Because the except is not bare and does not specify KeyboardInterrupt,
-one can get out of the program by typing ^C,
-which spews diagnostic stuff when quitting.
+one can get out of the program by typing ^C.
 '''
 
 from functools import partial
